@@ -118,6 +118,7 @@ p {
     font-size: 0.9375rem; /* 15px */
     padding: 5px 5px 5px 0;
     margin: 0;
+    
 }
 .strong {
     font-weight: bold;
@@ -681,9 +682,6 @@ button {
 #team figure:hover > .team-caption {
     opacity: 1;
 }
-#team figure:hover > img {
-    filter: blur(2px);
-}
 .team-name {
     font-size: 1.5rem;
     padding-bottom: 0;
@@ -925,7 +923,7 @@ button {
         margin-bottom: 3em;
     }
     .small-margin {
-        margin-bottom: 2em;
+        margin-bottom: 1em;
     }
     .heading {
         font-size: 1.50rem;
