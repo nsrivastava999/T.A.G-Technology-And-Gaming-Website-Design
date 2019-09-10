@@ -165,7 +165,7 @@ ul {
 	margin-bottom: 6em; /* 96px */
 }
 .large-margin {
-	margin-bottom: 12em; /* 192px */
+	margin-bottom: 8em; /* 192px */
 }
 /* -<hr>- */
 hr {
@@ -697,6 +697,7 @@ button {
     width: 100%;
     border: none;
 }
+
 /* --------------------------- /////////// VIII. CAREERS SECTION /////////// --------------------------- */
 .job-card {
     text-align: center;
